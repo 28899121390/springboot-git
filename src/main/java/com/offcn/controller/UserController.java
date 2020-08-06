@@ -10,5 +10,7 @@ public class UserController {
     @RequestMapping("/save")
    public void save(){
         System.out.println("this is xiaowang write");
-   }
+        System.out.println("this is xiaowang write2");
+
+    }
 }

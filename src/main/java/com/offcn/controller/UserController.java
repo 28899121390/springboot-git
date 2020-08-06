@@ -12,7 +12,6 @@ public class UserController {
         System.out.println("this is xiaowang write");
         System.out.println("this is me write");
         System.out.println("this is xiaowang write2");
-   }
 
 
     }
